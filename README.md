@@ -1,1 +1,2 @@
-TinDog Starting Files
+# See live version here
+https://ttindog-app.netlify.app
